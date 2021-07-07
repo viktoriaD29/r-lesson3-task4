@@ -16,7 +16,7 @@ ReactDOM.render(
   <Greeting
     firstName="John"
     lastName="Doe"
-    birthDate={age(new Date('2001-07-01T11:32:19.566Z'))}
+    birthDate={age(new Date('2004-07-01T11:32:19.566Z'))}
   />,
   rootElemnt
 );
